@@ -35,7 +35,7 @@ Please report all unacceptable use as instructed on our [Reporting Abuse](abuse.
 For copyright cases, please see our [Copyright](copyright.md) page.
 
 ## Changes and questions
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/goodenoughllc/policies/commits/main/privacy.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/41-north/policies/blob/main/aup.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this Acceptable Use Policy, or how it may impact your use-case? Please [get in touch](../contact/index.md).
 

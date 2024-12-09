@@ -12,7 +12,7 @@ These Terms of Service (the “Terms”), in conjunction with our [Privacy Polic
 
 When we say “Services”, we mean our websites, including [41n.co](https://41n.co), [id.41n.co](https://id.41n.co), [galaxy.sh](https://galaxy.sh), [stagelink.cloud](https://stagelink.cloud), and any other product created and maintained by 41 North Technologies. That includes Galaxy.sh, StageLink Cloud, and any other product whether delivered within a web browser, desktop application, mobile application, or another format.
 
-We may update these Terms of Service (“Terms”) in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+We may update these Terms of Service (“Terms”) in the future. You can track all changes made [on GitHub](https://github.com/41-north/policies/blob/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms. There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
 
