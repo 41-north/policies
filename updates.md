@@ -9,7 +9,7 @@ You can subscribe to activity notifications to know when our policies change. He
 3. Click the "Watch" button at the top right corner of the page.
 4. Choose the notification settings you want. If you want to keep things simple, just select "All Activity."
 
-![](https://41-north.b-cdn.net/about-41n-co/images/how-to-enable-notifications_bc_gif.gif)
+![](https://cdn.41n.co/about-41n-co/images/how-to-enable-notifications_bc_gif.gif)
 
 That's it! You'll get notifications for any activity that happens in that repository. You can change your notification settings or stop getting notifications by clicking the "Watch" button again.
 
